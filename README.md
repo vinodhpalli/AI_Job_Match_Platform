@@ -177,8 +177,6 @@ Prediction History
 
 Vinodh Palli
 
-LinkedIn:
-(Add your LinkedIn URL)
+LinkedIn:https://www.linkedin.com/in/palli-vinodh/
 
-GitHub:
-(Add your GitHub URL)
+GitHub:https://github.com/vinodhpalli
